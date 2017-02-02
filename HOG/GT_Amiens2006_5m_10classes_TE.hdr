@@ -1,0 +1,70 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 0.500491, y resize factor: 0.500491.
+  [Tue Apr 21 14:58:26 2015]}
+samples = 2000
+lines   = 2200
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 101
+class lookup = {
+   0,   0,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 160,  32, 240, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+   0, 255,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255,   0,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 127, 255, 212, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+  46, 139,  87, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+   0,   0, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+ 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255,
+   0, 255, 255}
+class names = {
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ EVF: 1111_city center [Magenta] 280841 points, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, EVF: 1113_dense_urban [Purple] 273284 points, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, 
+ 1222_roads_test [White] 40123 points, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, 
+ EVF: 1411_green_urban_areas [Green] 63837 points, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, 
+ EVF: 2111_arable land [Yellow] 461176 points, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, EVF: 2111_arable land [Red] 194000 points, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, 
+ EVF: 2311_grassland [Aquamarine] 218133 points, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, EVF: 3111_forest [Sea Green] 202690 points, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, 
+ EVF: 5112_river [Blue] 12081 points, Unclassified, Unclassified, 
+ Unclassified, Unclassified, Unclassified, Unclassified, Unclassified, 
+ Unclassified, Unclassified, EVF: 5122_water body [Cyan] 111482 points}
+byte order = 0
+map info = {ETRS89_ETRS_LAEA, 1.0000, 1.0000, 3763998.1934, 3011000.3750, 5.0000000000e+000, 5.0000000000e+000, D_ETRS_1989, units=Meters}
+projection info = {11, 6378137.0, 6356752.3, 52.000000, 10.000000, 4321000.0, 3210000.0, D_ETRS_1989, ETRS89_ETRS_LAEA, units=Meters}
+coordinate system string = {PROJCS["ETRS89_ETRS_LAEA",GEOGCS["GCS_ETRS89",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["false_easting",4321000.0],PARAMETER["false_northing",3210000.0],PARAMETER["central_meridian",10.0],PARAMETER["latitude_of_origin",52.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+pixel size = {5.00000000e+000, 5.00000000e+000, units=Meters}
+band names = {
+ Resize (Class Image from ROIs:GT_Amiens2006_2.5m_10classes_TE.raw)}
